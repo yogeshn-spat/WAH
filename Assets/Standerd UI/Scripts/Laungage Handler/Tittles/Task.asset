@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e02a45132f335f49b60f6f80272584b, type: 3}
+  m_Name: Task
+  m_EditorClassIdentifier: 
+  tamilContent: "<cspace=-4><b>\u0BAA\u0BA3\u0BBF</b></cspace>"
+  englishContent: Task
+  hindiContent: "<cspace=-2>\u091F\u093E\u0938\u094D\u0915 </cspace>"
