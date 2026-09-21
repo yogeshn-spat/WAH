@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SamplesInfoPanel
+  - Undefined
+  - Buckle
+  - Buckle2
+  - ConnectorOff
+  - BuckleOff
+  - Harness
+  - ShoesR
+  - Helmet
+  - ShoesL
+  - Glass
+  - Jacket
+  - EndStrap
+  - AvatarHarness
+  - L-Buckle
+  - R-Buckle
+  - R-End
+  - L-End
+  - GlowArea
+  - Pad
+  - Cu
+  - LanLeft
+  - LanRight
+  - English
+  - Hindi
+  - Tamil
+  - SoundSpots
+  - UI
+  - Canvas
+  - Pinch
+  - Alphaletter
+  - UIArrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ripples
+  - UI2
+  - light- Dynamic
+  - Building
+  - UIArrow
+  - BuildingLight
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI-One
+    uniqueID: 128443027
+    locked: 0

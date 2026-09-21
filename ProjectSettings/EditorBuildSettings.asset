@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/WorkAtHeight_Main/SharedBranches/Julika/Scenes/OnBoarding,Learning
+      2.unity
+    guid: 41b8c05648f0abd468d36bc1551322de
+  - enabled: 1
+    path: Assets/WorkAtHeight_Main/SharedBranches/Julika/Scenes/WorkAtHeight_POC_Julika_Evaluation.unity
+    guid: 2a63657f672adda4a984281beb85978e
+  - enabled: 0
+    path: Assets/WorkAtHeight_Main/SharedBranches/Julika/Scenes/TestScene/OnBoarding,Learning
+      - Anchor test.unity
+    guid: 66b231a248771c44098e52bb1421ecf7
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ac1363e69074218469eedc31d1f283b8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e7060b8295540f34b8a3ea8fe057c4af, type: 2}

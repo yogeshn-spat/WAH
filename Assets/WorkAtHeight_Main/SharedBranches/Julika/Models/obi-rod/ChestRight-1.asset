@@ -1,0 +1,300 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e028b099aa5d14e399bc3d87df5b7737, type: 3}
+  m_Name: ChestRight-1
+  m_EditorClassIdentifier: 
+  m_Empty: 0
+  m_ActiveParticleCount: 2
+  m_InitialActiveParticleCount: 2
+  _bounds:
+    m_Center: {x: -0.12514229, y: 0.0009217132, z: -0.064093605}
+    m_Extent: {x: 0.020754278, y: 0.000030506839, z: 0.0021188874}
+  positions:
+  - {x: -0.14589657, y: 0.0008912064, z: -0.061974715}
+  - {x: -0.10438801, y: 0.00095222006, z: -0.06621249}
+  restPositions:
+  - {x: -0.14589657, y: 0.0008912064, z: -0.061974715, w: 1}
+  - {x: -0.10438801, y: 0.00095222006, z: -0.06621249, w: 1}
+  orientations:
+  - {x: -0.0004900447, y: 0.7421474, z: 0.0005426226, w: 0.6702363}
+  - {x: -0.0004900447, y: 0.7421474, z: 0.0005426226, w: 0.6702363}
+  restOrientations:
+  - {x: -0.0004900447, y: 0.7421474, z: 0.0005426226, w: 0.6702363}
+  - {x: -0.0004900447, y: 0.7421474, z: 0.0005426226, w: 0.6702363}
+  velocities:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  angularVelocities:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  invMasses:
+  - 9.999999
+  - 10
+  invRotationalMasses:
+  - 99.99999
+  - 100
+  filters: 0200ffff0200ffff
+  principalRadii:
+  - {x: 0.10000002, y: 0.10000002, z: 0.10000002}
+  - {x: 0.1, y: 0.1, z: 0.1}
+  colors:
+  - {r: 1.0000001, g: 1.0000001, b: 1.0000001, a: 1.0000001}
+  - {r: 1, g: 1, b: 1, a: 1}
+  points: 
+  edges: 0000000001000000
+  triangles: 
+  distanceConstraintsData:
+    batches: []
+  bendConstraintsData:
+    batches: []
+  skinConstraintsData:
+    batches: []
+  tetherConstraintsData:
+    batches: []
+  stretchShearConstraintsData:
+    batches:
+    - m_IDs: 00000000
+      m_IDToIndex: 00000000
+      m_ConstraintCount: 1
+      m_ActiveConstraintCount: 1
+      m_InitialActiveConstraintCount: 1
+      particleIndices:
+        serializedContents: 0000000001000000
+        m_AlignBytes: 16
+      lambdas:
+        serializedContents: []
+        m_AlignBytes: 16
+      orientationIndices:
+        serializedContents: 00000000
+        m_AlignBytes: 16
+      restLengths:
+        serializedContents:
+        - 0.041724365
+        m_AlignBytes: 16
+      restOrientations:
+        serializedContents:
+        - {x: 0, y: 0, z: 0, w: 1}
+        m_AlignBytes: 16
+      stiffnesses:
+        serializedContents:
+        - {x: 0, y: 0, z: 0}
+        m_AlignBytes: 16
+    - m_IDs: 
+      m_IDToIndex: 
+      m_ConstraintCount: 0
+      m_ActiveConstraintCount: 0
+      m_InitialActiveConstraintCount: 0
+      particleIndices:
+        serializedContents: 
+        m_AlignBytes: 16
+      lambdas:
+        serializedContents: []
+        m_AlignBytes: 16
+      orientationIndices:
+        serializedContents: 
+        m_AlignBytes: 16
+      restLengths:
+        serializedContents: []
+        m_AlignBytes: 16
+      restOrientations:
+        serializedContents: []
+        m_AlignBytes: 16
+      stiffnesses:
+        serializedContents: []
+        m_AlignBytes: 16
+  bendTwistConstraintsData:
+    batches:
+    - m_IDs: 00000000
+      m_IDToIndex: 00000000
+      m_ConstraintCount: 1
+      m_ActiveConstraintCount: 1
+      m_InitialActiveConstraintCount: 1
+      particleIndices:
+        serializedContents: 0000000001000000
+        m_AlignBytes: 16
+      lambdas:
+        serializedContents: []
+        m_AlignBytes: 16
+      restDarbouxVectors:
+        serializedContents:
+        - {x: 0, y: 0, z: 0, w: 0.99999994}
+        m_AlignBytes: 16
+      stiffnesses:
+        serializedContents:
+        - {x: 0, y: 0, z: 0}
+        m_AlignBytes: 16
+      plasticity:
+        serializedContents:
+        - {x: 0, y: 0}
+        m_AlignBytes: 16
+    - m_IDs: 
+      m_IDToIndex: 
+      m_ConstraintCount: 0
+      m_ActiveConstraintCount: 0
+      m_InitialActiveConstraintCount: 0
+      particleIndices:
+        serializedContents: 
+        m_AlignBytes: 16
+      lambdas:
+        serializedContents: []
+        m_AlignBytes: 16
+      restDarbouxVectors:
+        serializedContents: []
+        m_AlignBytes: 16
+      stiffnesses:
+        serializedContents: []
+        m_AlignBytes: 16
+      plasticity:
+        serializedContents: []
+        m_AlignBytes: 16
+  shapeMatchingConstraintsData:
+    batches: []
+  aerodynamicConstraintsData:
+    batches: []
+  chainConstraintsData:
+    batches:
+    - m_IDs: 00000000
+      m_IDToIndex: 00000000
+      m_ConstraintCount: 1
+      m_ActiveConstraintCount: 1
+      m_InitialActiveConstraintCount: 1
+      particleIndices:
+        serializedContents: 0000000001000000
+        m_AlignBytes: 16
+      lambdas:
+        serializedContents: []
+        m_AlignBytes: 16
+      firstParticle:
+        serializedContents: 00000000
+        m_AlignBytes: 16
+      numParticles:
+        serializedContents: 02000000
+        m_AlignBytes: 16
+      lengths:
+        serializedContents:
+        - {x: 0.041804966, y: 0.041804966}
+        m_AlignBytes: 16
+  volumeConstraintsData:
+    batches: []
+  groups:
+  - {fileID: 8639899982089808879}
+  - {fileID: 5024555508739846459}
+  path:
+    m_Names:
+    - L
+    - R
+    m_Points:
+      data:
+      - tangentMode: 0
+        inTangent: {x: -0.007334709, y: -0.000029988121, z: 0.0020852238}
+        position: {x: -0.14589657, y: 0.0008912064, z: -0.061974715}
+        outTangent: {x: 0.009367876, y: 0.00003830064, z: -0.002663225}
+      - tangentMode: 0
+        inTangent: {x: -0.010305166, y: 0, z: 0}
+        position: {x: -0.10438801, y: 0.00095222006, z: -0.06621249}
+        outTangent: {x: 0.46347827, y: -0, z: -0}
+    m_Normals:
+      data:
+      - {x: 0, y: 1.0000001, z: 0}
+      - {x: 0, y: 1, z: 0}
+    m_Colors:
+      data:
+      - {r: 1.0000001, g: 1.0000001, b: 1.0000001, a: 1.0000001}
+      - {r: 1, g: 1, b: 1, a: 1}
+    m_Thickness:
+      data:
+      - 1.0000001
+      - 1
+    m_Masses:
+      data:
+      - 0.10000001
+      - 0.1
+    m_RotationalMasses:
+      data:
+      - 0.010000001
+      - 0.01
+    m_Filters:
+      data: 0200ffff0200ffff
+    m_Closed: 0
+    m_ArcLengthTable:
+    - 0
+    - 0.0014687439
+    - 0.0030835376
+    - 0.0048305765
+    - 0.0066955327
+    - 0.008663746
+    - 0.010720334
+    - 0.012850261
+    - 0.015038384
+    - 0.01726948
+    - 0.019528266
+    - 0.021799421
+    - 0.024067584
+    - 0.026317373
+    - 0.028533388
+    - 0.030700216
+    - 0.032802437
+    - 0.03482463
+    - 0.03675137
+    - 0.03856726
+    - 0.040256906
+    - 0.041804966
+    m_TotalSplineLenght: 0.041804966
+    OnPathChanged:
+      m_PersistentCalls:
+        m_Calls: []
+    OnControlPointAdded:
+      m_PersistentCalls:
+        m_Calls: []
+    OnControlPointRemoved:
+      m_PersistentCalls:
+        m_Calls: []
+    OnControlPointRenamed:
+      m_PersistentCalls:
+        m_Calls: []
+  thickness: 0.1
+  resolution: 1
+  m_InterParticleDistance: 0.041804966
+  totalParticles: 2
+  m_RestLength: 0.041724365
+  restLengths:
+  - 0.041724365
+  - 0
+  keepInitialShape: 1
+--- !u!114 &5024555508739846459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 775ad4994fda946d1a5936c7e2dfc785, type: 3}
+  m_Name: R
+  m_EditorClassIdentifier: 
+  particleIndices: 01000000
+  m_Blueprint: {fileID: 11400000}
+--- !u!114 &8639899982089808879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 775ad4994fda946d1a5936c7e2dfc785, type: 3}
+  m_Name: L
+  m_EditorClassIdentifier: 
+  particleIndices: 00000000
+  m_Blueprint: {fileID: 11400000}
